@@ -2,11 +2,14 @@
 
 This repository contains my daily practice of Machine Learning and Deep Learning.
 
-## Day 1
+## Day 1: DL
 - Single Layer Perceptron
 
-## Day 2
+## Day 2: ML
 - Batch vs Online Learning
+  
+## Day 3:DL
+-Multi layer perceptron
 
 ## Tools
 - Python
