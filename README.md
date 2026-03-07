@@ -11,6 +11,9 @@ This repository contains my daily practice of Machine Learning and Deep Learning
 ## Day 3:DL
 -Multi layer perceptron
 
+## Day 4:ML
+- Model vs instance based learning
+
 ## Tools
 - Python
 - NumPy
